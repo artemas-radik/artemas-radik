@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api?username=artemas-radik&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
 ![Artemas's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemas-radik&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&icon_color=fff)
